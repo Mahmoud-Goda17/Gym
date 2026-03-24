@@ -1,0 +1,19 @@
+@host = https://localhost:7072
+
+
+###
+
+GET {{host}}/api/classbooking/class/{classId:guid}
+
+###
+
+POST {{host}}/api/auth/login
+Content-Type: application/json
+
+{
+  "Email": "admin@gmail.com",
+  "Password": "P@ssw0rd"
+  
+}
+
+###
