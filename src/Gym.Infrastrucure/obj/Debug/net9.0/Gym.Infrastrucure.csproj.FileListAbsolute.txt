@@ -1,0 +1,17 @@
+C:\Users\Vision\Desktop\Gym\Src\Gym.Infrastrucure\bin\Debug\net9.0\Gym.Infrastrucure.deps.json
+C:\Users\Vision\Desktop\Gym\Src\Gym.Infrastrucure\bin\Debug\net9.0\Gym.Infrastrucure.dll
+C:\Users\Vision\Desktop\Gym\Src\Gym.Infrastrucure\bin\Debug\net9.0\Gym.Infrastrucure.pdb
+C:\Users\Vision\Desktop\Gym\Src\Gym.Infrastrucure\bin\Debug\net9.0\Gym.Application.dll
+C:\Users\Vision\Desktop\Gym\Src\Gym.Infrastrucure\bin\Debug\net9.0\Gym.Domain.dll
+C:\Users\Vision\Desktop\Gym\Src\Gym.Infrastrucure\bin\Debug\net9.0\Gym.Application.pdb
+C:\Users\Vision\Desktop\Gym\Src\Gym.Infrastrucure\bin\Debug\net9.0\Gym.Domain.pdb
+C:\Users\Vision\Desktop\Gym\Src\Gym.Infrastrucure\obj\Debug\net9.0\Gym.Infrastrucure.csproj.AssemblyReference.cache
+C:\Users\Vision\Desktop\Gym\Src\Gym.Infrastrucure\obj\Debug\net9.0\Gym.Infrastrucure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vision\Desktop\Gym\Src\Gym.Infrastrucure\obj\Debug\net9.0\Gym.Infrastrucure.AssemblyInfoInputs.cache
+C:\Users\Vision\Desktop\Gym\Src\Gym.Infrastrucure\obj\Debug\net9.0\Gym.Infrastrucure.AssemblyInfo.cs
+C:\Users\Vision\Desktop\Gym\Src\Gym.Infrastrucure\obj\Debug\net9.0\Gym.Infrastrucure.csproj.CoreCompileInputs.cache
+C:\Users\Vision\Desktop\Gym\Src\Gym.Infrastrucure\obj\Debug\net9.0\Gym.Infr.5154F9CA.Up2Date
+C:\Users\Vision\Desktop\Gym\Src\Gym.Infrastrucure\obj\Debug\net9.0\Gym.Infrastrucure.dll
+C:\Users\Vision\Desktop\Gym\Src\Gym.Infrastrucure\obj\Debug\net9.0\refint\Gym.Infrastrucure.dll
+C:\Users\Vision\Desktop\Gym\Src\Gym.Infrastrucure\obj\Debug\net9.0\Gym.Infrastrucure.pdb
+C:\Users\Vision\Desktop\Gym\Src\Gym.Infrastrucure\obj\Debug\net9.0\ref\Gym.Infrastrucure.dll
